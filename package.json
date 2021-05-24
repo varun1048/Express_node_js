@@ -1,0 +1,25 @@
+{
+  "name": "express_node_js",
+  "version": "1.0.0",
+  "description": "API documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varun1048/Express_node_js.git"
+  },
+  "author": "varun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varun1048/Express_node_js/issues"
+  },
+  "homepage": "https://github.com/varun1048/Express_node_js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "nodemon": "^2.0.7"
+  }
+}
